@@ -10,3 +10,4 @@ Repository ini berisi tentang projek untuk tugas open recruitment Lab MBC 2022.
 - Tugas 1 : Membuat kalkulator untuk menghitung Volume Balok, Luas Balok, Volume Kubus, Luas Kubus, Volume Segitiga, dan Luas Segitiga.
 - Tugas 2 : Membuat program Python.
 - Tugas 3 : Terdiri dari tugas mandiri dan laporan progress dummy web.
+- Tubes-2 : Terdiri dari Frontend dan Backend dummy web.
